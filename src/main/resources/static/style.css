@@ -1,0 +1,31 @@
+.body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.formulario{
+    width: 50%;
+    border: 1px solid rgb(209, 208, 208);
+    border-radius: 6px;
+    padding: 1em;
+}
+
+.edicao{
+    display: flexbox;
+    justify-content: space-around;
+}
+
+.form{
+    display: inline;
+    width: 40%;
+}
+
+.form-edicao{
+    display: inline;
+}
+
+.input-oculto{
+    display: none;
+}
